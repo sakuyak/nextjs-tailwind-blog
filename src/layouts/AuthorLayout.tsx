@@ -3,6 +3,7 @@ import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 import { ReactNode } from 'react'
 import { AuthorFrontMatter } from 'types/AuthorFrontMatter'
+import { twitter } from '@/data/siteMetadata'
 
 interface Props {
   children: ReactNode
@@ -38,6 +39,7 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
               <SocialIcon kind="github" href={github} />
               <SocialIcon kind="juejin" href={juejin} />
               <SocialIcon kind="zhihu" href={zhihu} />
+              <SocialIcon kind="twitter" href={twitter} />
             </div>
           </div>
           <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
