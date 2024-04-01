@@ -1,10 +1,11 @@
 const headerNavLinks = [
-  { href: '/blog', title: '文章' },
-  { href: '/tags', title: '标签' },
-  { href: '/video', title: '视频' },
-  { href: '/projects', title: '项目' },
-  { href: 'https://www.runjs.cool/', title: '工具' },
-  { href: '/about', title: '关于' },
+  { href: '/blog', title: 'Article' },
+  { href: '/tags', title: 'Label' },
+  /*   { href: '/video', title: 'Video' },
+   */ { href: '/projects', title: 'Project' },
+  /*   { href: 'https://www.runjs.cool/', title: 'Tools' },
+   */
+  { href: '/about', title: 'About' },
 ]
 
 export default headerNavLinks
