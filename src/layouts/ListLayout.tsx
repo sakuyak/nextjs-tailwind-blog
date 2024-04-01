@@ -52,7 +52,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
           </div>
         </div>
         <ul>
-          {!filteredBlogPosts.length && '暂无数据'}
+          {!filteredBlogPosts.length && 'Null'}
           {displayPosts.map((frontMatter) => {
             const { slug } = frontMatter
             return <Article {...frontMatter} key={slug} />

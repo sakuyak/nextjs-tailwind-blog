@@ -10,12 +10,13 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'maqi1520@163.com',
+  email: 'big',
   github: 'https://github.com/maqi1520',
   juejin: 'https://juejin.cn/user/2189882895384093',
   zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
-  locale: 'zh-CN',
-  welcome: '自在，轻盈，我本不想停留',
+  twitter: 'https://twitter.com/KapitalCrypto',
+  locale: 'en-US',
+  welcome: 'Hi! I m Bigbull.',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
