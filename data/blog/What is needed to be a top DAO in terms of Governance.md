@@ -2,7 +2,7 @@
 title: What is needed to be a top DAO in terms of Governance?
 date: '2024-03-20'
 lastmod: '2024/3/20'
-tags: ['markdown', 'code', 'features']
+tags: ['markdown', 'Crypto', 'features']
 draft: false
 summary: 'To become a top DAO (Decentralized Autonomous Organization) in terms of governance, several key elements and practices are essential. '
 images:

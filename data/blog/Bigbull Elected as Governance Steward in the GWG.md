@@ -2,7 +2,7 @@
 title: Bigbull Elected as Governance Steward in the GWG
 date: '2024-03-19'
 lastmod: '2024/3/19'
-tags: ['markdown', 'code', 'features']
+tags: ['markdown', 'Crypto', 'features']
 draft: false
 summary: 'In 2024 I have been elected as a Governance Steward in the Governance Working Group (GWG) in the ApeCoin Dao. '
 images:

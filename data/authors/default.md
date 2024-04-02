@@ -3,7 +3,7 @@ name: Bigbull
 avatar: /static/images/avatar.jpg
 occupation: XXXX
 company: XXXX
-email: maqi1520@163.com
+email: bigbull@bigbull.etg
 twitter: https://juejin.cn/user/2189882895384093
 zhihu: https://www.zhihu.com/people/xiao-ma-15-3
 github: https://github.com/maqi1520
@@ -21,4 +21,4 @@ My link
 - [Bigbull.eth](https://bigbull.eth)
 - [Zerion](https://app.zerion.io/bigbull.eth)
 - [Linktree](https://linktr.ee/bigbull.eth)
-- [hey.xyz](https://hey.xyz/u/bullape)
+- [Hey.xyz](https://hey.xyz/u/bullape)
