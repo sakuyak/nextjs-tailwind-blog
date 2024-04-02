@@ -94,7 +94,8 @@ const PrivacyPolicy: React.FC = () => {
 
       <h2 className="mt-6 mb-2 text-2xl font-bold">8. Contact Us</h2>
       <p>
-        If you have any questions about this Privacy Policy, please contact us at [xxx@xxx.com].
+        If you have any questions about this Privacy Policy, please contact us at [
+        info@bigbull.xyz].
       </p>
     </div>
   )

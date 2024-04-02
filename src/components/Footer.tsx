@@ -20,11 +20,11 @@ export default function Footer() {
           <Link href="/">{siteMetadata.title}</Link>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <a href="https://#/" target="_blank" rel="noreferrer">
+          <a href="/Privacy" target="_blank" rel="noreferrer">
             Privacy
           </a>
           <a>&nbsp;&nbsp;•&nbsp;&nbsp;</a>
-          <a href="https://#/" target="_blank" rel="noreferrer">
+          <a href="/Terms" target="_blank" rel="noreferrer">
             Terms
           </a>
         </div>

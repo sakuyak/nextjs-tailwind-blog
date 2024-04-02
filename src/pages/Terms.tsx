@@ -75,7 +75,7 @@ const TermsOfService: React.FC = () => {
       </p>
 
       <h2 className="mt-6 mb-2 text-2xl font-bold">9. Contact Us</h2>
-      <p>If you have any questions about these Terms, please contact us at [xxx@xxx.com].</p>
+      <p>If you have any questions about these Terms, please contact us at [info@bigbull.xyz].</p>
 
       <h2 className="mt-6 mb-2 text-2xl font-bold">Acceptance of Terms</h2>
       <p>

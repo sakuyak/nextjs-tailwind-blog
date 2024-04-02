@@ -4,9 +4,9 @@ const headerNavLinks = [
   /*   { href: '/video', title: 'Video' },
    */
   { href: '/projects', title: 'Project' },
-  { href: '/Terms', title: 'Terms' },
+  /*   { href: '/Terms', title: 'Terms' },
   { href: '/Privacy', title: 'Privacy' },
-  /*   { href: 'https://www.runjs.cool/', title: 'Tools' },
+ */ /*   { href: 'https://www.runjs.cool/', title: 'Tools' },
    */
   { href: '/about', title: 'About' },
 ]
