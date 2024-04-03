@@ -4,6 +4,8 @@ import Linkedin from './linkedin.svg'
 import Twitter from './twitter.svg'
 import Juejin from './juejin.svg'
 import Zhihu from './zhihu.svg'
+import linktree from './linktree.svg'
+import zerion from './zerion.svg'
 
 // Icons taken from: https://simpleicons.org/
 
@@ -14,6 +16,8 @@ const components = {
   zhihu: Zhihu,
   linkedin: Linkedin,
   twitter: Twitter,
+  linktree: linktree,
+  zerion: zerion,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {

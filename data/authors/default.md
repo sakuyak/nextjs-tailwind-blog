@@ -5,8 +5,9 @@ occupation: XXXX
 company: XXXX
 email: bigbull@bigbull.etg
 twitter: https://juejin.cn/user/2189882895384093
-zhihu: https://www.zhihu.com/people/xiao-ma-15-3
 github: https://github.com/maqi1520
+linktree: https://linktr.ee/bigbull.eth
+zerion: https://app.zerion.io/bigbull.eth
 ---
 
 Hi, I'm Bigbull

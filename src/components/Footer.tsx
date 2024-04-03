@@ -10,9 +10,8 @@ export default function Footer() {
           <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size={6} />
           <SocialIcon kind="github" href={siteMetadata.github} size={6} />
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size={6} />
-          <SocialIcon kind="juejin" href={siteMetadata.juejin} size={6} />
-          <SocialIcon kind="zhihu" href={siteMetadata.zhihu} size={6} />
-          <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
+          <SocialIcon kind="zerion" href={siteMetadata.zerion} size={6} />
+          <SocialIcon kind="linktree" href={siteMetadata.linktree} size={6} />
         </div>
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{`© ${new Date().getFullYear()}`}</div>
@@ -20,11 +19,11 @@ export default function Footer() {
           <Link href="/">{siteMetadata.title}</Link>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <a href="/Privacy" target="_blank" rel="noreferrer">
+          <a href="/" target="_blank" rel="noreferrer">
             Privacy
           </a>
           <a>&nbsp;&nbsp;•&nbsp;&nbsp;</a>
-          <a href="/Terms" target="_blank" rel="noreferrer">
+          <a href="/" target="_blank" rel="noreferrer">
             Terms
           </a>
         </div>
